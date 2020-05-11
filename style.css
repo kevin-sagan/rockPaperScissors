@@ -1,0 +1,18 @@
+body {
+  text-align: center;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  background-color: gainsboro;
+}
+
+.scoreboard {
+  display: box;
+  border-style: groove;
+  padding: 0.6rem;
+  width: 200px;
+  margin: auto;
+}
+
+.buttons {
+  position: relative;
+  top: 3.5rem;
+}
